@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ca9a1d3-9598-4b0c-abf8-a4205d777a39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook-web-tests" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-web-tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/CreateNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/CreateNewContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/GroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/GroupCreationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/addressbook-web-tests/src/test/java/ru/stqa/addressbook/ContactData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../addressbook">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/addressbook-web-tests">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/sandbox">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/addressbook-web-tests">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sandbox" />
+  </component>
+  <component name="ProjectId" id="1YX8rBVaTFiByNUpMWJQK5gI61s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/addressbook-web-tests" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/addressbook-web-tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DeleteGroup">
+    <configuration name="CreateNewContact" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.addressbook.CreateNewContact&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DeleteGroup" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.addressbook.DeleteGroup&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GroupCreationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbook-web-tests" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ru.stqa.addressbook.GroupCreationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CreateNewContact" type="TestNG" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <useClassPathOnly />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ru.stqa.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.addressbook.CreateNewContact" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteGroup" type="TestNG" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <useClassPathOnly />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ru.stqa.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.addressbook.DeleteGroup" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTest" type="TestNG" nameIsGenerated="true">
+      <module name="addressbook-web-tests.test" />
+      <useClassPathOnly />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="ru.stqa.addressbook" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.addressbook.GroupCreationTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <module name="addressbook-web-tests" />
+      <useClassPathOnly />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.addressbook.CreateNewContact" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CreateNewContact" />
+      <item itemvalue="Gradle.DeleteGroup" />
+      <item itemvalue="Gradle.GroupCreationTest" />
+      <item itemvalue="TestNG.GroupCreationTest" />
+      <item itemvalue="TestNG.DeleteGroup" />
+      <item itemvalue="TestNG.CreateNewContact" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GroupCreationTest" />
+        <item itemvalue="Gradle.DeleteGroup" />
+        <item itemvalue="Gradle.CreateNewContact" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ca9a1d3-9598-4b0c-abf8-a4205d777a39" name="Default Changelist" comment="" />
+      <created>1583077775087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583077775087</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="110" key="#Project_Structure" timestamp="1583077949844">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="399" y="110" key="#Project_Structure/0.24.1600.876@0.24.1600.876" timestamp="1583077949844" />
+    <state x="263" y="107" width="1073" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583081213030">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="263" y="107" width="1073" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1600.876@0.24.1600.876" timestamp="1583081213030" />
+    <state x="536" y="260" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583081175578">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="536" y="260" key="#com.intellij.ide.util.TreeClassChooserDialog/0.24.1600.876@0.24.1600.876" timestamp="1583081175578" />
+    <state x="494" y="169" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1583086852451">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="494" y="169" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.24.1600.876@0.24.1600.876" timestamp="1583086852451" />
+    <state x="425" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583084902690">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="425" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.24.1600.876@0.24.1600.876" timestamp="1583084902690" />
+    <state x="587" y="206" key="FileChooserDialogImpl" timestamp="1583078426472">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="587" y="206" key="FileChooserDialogImpl/0.24.1600.876@0.24.1600.876" timestamp="1583078426472" />
+    <state width="1550" height="236" key="GridCell.Tab.0.bottom" timestamp="1583087674479">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1550" height="236" key="GridCell.Tab.0.bottom/0.24.1600.876@0.24.1600.876" timestamp="1583087674479" />
+    <state width="1550" height="236" key="GridCell.Tab.0.center" timestamp="1583087674478">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1550" height="236" key="GridCell.Tab.0.center/0.24.1600.876@0.24.1600.876" timestamp="1583087674478" />
+    <state width="1550" height="236" key="GridCell.Tab.0.left" timestamp="1583087674477">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1550" height="236" key="GridCell.Tab.0.left/0.24.1600.876@0.24.1600.876" timestamp="1583087674477" />
+    <state width="1550" height="236" key="GridCell.Tab.0.right" timestamp="1583087674478">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state width="1550" height="236" key="GridCell.Tab.0.right/0.24.1600.876@0.24.1600.876" timestamp="1583087674478" />
+    <state x="397" y="61" key="RefactorJ.IntroduceParameterObject" timestamp="1583086150023">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="397" y="61" key="RefactorJ.IntroduceParameterObject/0.24.1600.876@0.24.1600.876" timestamp="1583086150023" />
+    <state x="287" y="26" key="SettingsEditor" timestamp="1583089884159">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="287" y="26" key="SettingsEditor/0.24.1600.876@0.24.1600.876" timestamp="1583089884159" />
+    <state x="554" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583089324226">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="554" y="367" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.24.1600.876@0.24.1600.876" timestamp="1583089324226" />
+    <state x="49" y="24" key="new project wizard" timestamp="1583078454836">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="49" y="24" key="new project wizard/0.24.1600.876@0.24.1600.876" timestamp="1583078454836" />
+    <state x="463" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1583085830090">
+      <screen x="0" y="24" width="1600" height="876" />
+    </state>
+    <state x="463" y="191" width="672" height="678" key="search.everywhere.popup/0.24.1600.876@0.24.1600.876" timestamp="1583085830090" />
+  </component>
+</project>
