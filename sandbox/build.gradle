@@ -1,0 +1,20 @@
+apply plugin: 'java-library'
+apply plugin: 'application'
+mainClassName = "NewJavaProgram"
+
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+    testCompile group: 'org.testng', name: 'testng', version: '7.1.0'
+}
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+}
