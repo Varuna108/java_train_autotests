@@ -22,10 +22,6 @@ public class GroupHelper extends HelperBase {
         type(By.name("group_name"), groupData.getName());
         type(By.name("group_header"), groupData.getHeader());
         type(By.name("group_footer"), groupData.getFooter());
-//        wd.findElement(By.name("group_header")).clear();
-//      wd.findElement(By.name("group_header")).sendKeys(groupData.getHeader());
-//      wd.findElement(By.name("group_footer")).clear();
-//      wd.findElement(By.name("group_footer")).sendKeys(groupData.getFooter());
     }
 
     public void initGroupCreation() {
@@ -39,5 +35,13 @@ public class GroupHelper extends HelperBase {
     public void selectGroup() {
         click(By.name("selected[]"));
 
+    }
+
+    public void initGroupModification() {
+        click(By.name("edit"));
+    }
+
+    public void submitGroupModification() {
+        click(By.name("update"));
     }
 }
