@@ -13,9 +13,7 @@ public class ContactHelper extends HelperBase {
         super(wd);
     }
 
-//    public void returnHomePage() {
-//        click(By.id("logo"));
-//    }
+
 
     public void submitNewContact() {
         click(By.xpath("(//input[@name='submit'])[2]"));
@@ -70,5 +68,9 @@ public class ContactHelper extends HelperBase {
 
     public boolean isThereAContact() {
         return isElementPresent(By.name("selected[]"));
+    }
+
+    public int getContactCount() {
+        return wd.findElements(By.name("selected[]")).size();
     }
 }
